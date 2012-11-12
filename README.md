@@ -14,4 +14,8 @@ Getting Started
 ---------------
 You need a web server your RSS reader service can see running PHP.  
 
-Download the files, make a few changes to the settings in the index.php file to specify the terms you want to search for along with the cities you want to search in, and you should be on your way.  
+1. Throw the files in this project into the folder you want to use
+2. Create a folder named 'cache' and chmod it to 777 so the script can write files to it
+3. Update the settings at the top of index.php by following the examples laid out in that file
+
+Good luck!
