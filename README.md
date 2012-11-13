@@ -10,6 +10,8 @@ I wrote this thing because I'm looking for a pinball machine.  I love pinball, a
 
 Philly's just a couple hours away, and Baltimore's a short 90 minutes to the south.  I *could* just run separate searches in their respective Craigslist sites, but I'd then have to manage those feeds separately in Google Reader, which is a pain considering how spammy some of those listings can be.
 
+With this little utility installed, I can modify my search criteria in one place and not have to make any changes to my feeds in Google Reader.
+
 Getting Started
 ---------------
 You need a web server your RSS reader service can see running PHP.  
