@@ -19,3 +19,8 @@ You need a web server your RSS reader service can see running PHP.
 3. Update the settings at the top of index.php by following the examples laid out in that file
 
 Good luck!
+
+Credits
+-------
+I started with David Stinemetze's MergedRSS class he posted as part of the article posted at http://www.widgetsandburritos.com/merge-rss-feeds-php-cache/ and included in this project here with his permission.
+
